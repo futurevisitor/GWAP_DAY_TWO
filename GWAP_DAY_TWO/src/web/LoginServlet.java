@@ -152,11 +152,7 @@ public class LoginServlet extends HttpServlet {
 		out.println("<!-- Footer End -->");
 		out.println("	</body>");
 		out.println("</html>");
-
-
-
-
-		
+	
 	}
 
 	@Override
